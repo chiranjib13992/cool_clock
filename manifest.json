@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Sticky Clock",
+    "version": "1.0",
+    "description": "Floating clock window that stays open",
+    "permissions": ["windows", "storage"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Open Clock"
+    },
+    "icons": {
+      "128": "clock.png"
+    }
+  }
+  
