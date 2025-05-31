@@ -31,11 +31,8 @@ How to use In chrome
 ----------------------
 1.Clone the repo
 2.Open Chrome
-
 3.Go to chrome://extensions/
-
 4.Toggle Developer mode (top right)
-
 5.Click “Load unpacked”
-
 6.Select your extension folder
+7.Click one the Extension icon inthe topbar of chrome it will open and you can resize it whenever you want to so.
